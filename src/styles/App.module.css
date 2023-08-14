@@ -1,0 +1,25 @@
+.App {
+   text-align: center;
+}
+
+.App-header {
+   background-color: #282c34;
+   padding: 20px;
+   color: white;
+}
+
+.App-main {
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   padding: 20px;
+}
+
+.selectors {
+   margin: 10px;
+}
+
+.error {
+   color: red;
+   margin-top: 10px;
+}
